@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first_app", "first_app\first_app.csproj", "{3BC09008-BEDE-4EF4-9782-FE1A8EA97145}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "first_app", "first_app\first_app.csproj", "{3BC09008-BEDE-4EF4-9782-FE1A8EA97145}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-3-condition-loops", "lesson-3-condition-loops\lesson-3-condition-loops.csproj", "{35E544FE-24F5-44D0-B167-AFF2042085A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework-3-condition-loops", "homework-3-condition-loops\homework-3-condition-loops.csproj", "{2C4D86E8-C289-427B-A697-6F3486C69769}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "home_work1", "home_work1\home_work1.csproj", "{62415A73-767C-41F8-A04C-4728F2ACDB8D}"
 EndProject
