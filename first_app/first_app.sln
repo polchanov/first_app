@@ -11,6 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homework-3-condition-loops"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "home_work1", "home_work1\home_work1.csproj", "{62415A73-767C-41F8-A04C-4728F2ACDB8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-4-methods", "lesson-4-methods\lesson-4-methods.csproj", "{AC05EB84-1E02-41FC-BBF6-DEC4502F3003}"
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-4-methods", "lesson-4-methods\lesson-4-methods.csproj", "{AC05EB84-1E02-41FC-BBF6-DEC4502F3003}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-6-arrays", "lesson-6-arrays\lesson-6-arrays.csproj", "{1A5E9778-CEA1-4F58-8295-6F877B16A231}"
