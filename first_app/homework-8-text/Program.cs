@@ -41,8 +41,6 @@ namespace lesson_8_text
 
         }
 
-
-
         static string GetBookText(string filePath)
         {
             return File.ReadAllText(filePath);
