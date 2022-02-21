@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homework-6-arrays", "homewo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-7-strings", "lesson-7-strings\lesson-7-strings.csproj", "{6B2A7BE5-E39E-47C6-BD70-CBC5F5FF83A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework-7-string", "homework-7-string\homework-7-string.csproj", "{2231CED5-6DC7-46AA-A44A-E39DC8A1FF18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homework-7-string", "homework-7-string\homework-7-string.csproj", "{2231CED5-6DC7-46AA-A44A-E39DC8A1FF18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-8-text", "lesson-8-text\lesson-8-text.csproj", "{EC1D958D-896E-4ABA-B4EB-52EBD99EBCC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework-8-text", "homework-8-text\homework-8-text.csproj", "{2D0FB423-987B-47E6-9019-F4B99A430795}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{2231CED5-6DC7-46AA-A44A-E39DC8A1FF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2231CED5-6DC7-46AA-A44A-E39DC8A1FF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2231CED5-6DC7-46AA-A44A-E39DC8A1FF18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1D958D-896E-4ABA-B4EB-52EBD99EBCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1D958D-896E-4ABA-B4EB-52EBD99EBCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1D958D-896E-4ABA-B4EB-52EBD99EBCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1D958D-896E-4ABA-B4EB-52EBD99EBCC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D0FB423-987B-47E6-9019-F4B99A430795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0FB423-987B-47E6-9019-F4B99A430795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0FB423-987B-47E6-9019-F4B99A430795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0FB423-987B-47E6-9019-F4B99A430795}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
